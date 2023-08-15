@@ -20,6 +20,6 @@
   <a href = "ianvitoriod@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/ian-vit%C3%B3rio-93527426a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Animação de cobra](https://github.com/Ian-Vitorio/Ian-Vitorio/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Ian-Vitorio_github/seu_usuario_github/blob/output/github-contribution-grid-snake.svg)
 
 </div>
